@@ -33,24 +33,24 @@ const Tile_Images = {
     "28": "Tiles/Royal_Albert_Hall.svg"
 };
 const Tile_Info = {
-    "2": "Tile_info/HuxleyRent.svg",
-    "4": "Tile_info/WestboundRent.svg",
-    "5": "Tile_info/BlackettRent.svg",
-    "7": "Tile_info/RodericRent.svg",
-    "9": "Tile_info/ScienceRent.svg",
-    "10": "Tile_info/FlemmingRent.svg",
-    "11": "Tile_info/BusinessRent.svg",
-    "13": "Tile_info/AcexRent.svg",
-    "14": "Tile_info/DysonRent.svg",
-    "16": "Tile_info/SherfieldRent.svg",
-    "18": "Tile_info/AbdusRent.svg",
-    "19": "Tile_info/EastboundRent.svg",
-    "20": "Tile_info/HammersmithRent.svg",
-    "21": "Tile_info/CharingRent.svg",
-    "23": "Tile_info/WhiteRent.svg",
-    "24": "Tile_info/HistoryRent.svg",
-    "25": "Tile_info/QueensRent.svg",
-    "28": "Tile_info/RoyalRent.svg"
+    "2": "Tile_Info/HuxleyRent.svg",
+    "4": "Tile_Info/WestboundRent.svg",
+    "5": "Tile_Info/BlackettRent.svg",
+    "7": "Tile_Info/RodericRent.svg",
+    "9": "Tile_Info/ScienceRent.svg",
+    "10": "Tile_Info/FlemmingRent.svg",
+    "11": "Tile_Info/BusinessRent.svg",
+    "13": "Tile_Info/AcexRent.svg",
+    "14": "Tile_Info/DysonRent.svg",
+    "16": "Tile_Info/SherfieldRent.svg",
+    "18": "Tile_Info/AbdusRent.svg",
+    "19": "Tile_Info/EastboundRent.svg",
+    "20": "Tile_Info/HammersmithRent.svg",
+    "21": "Tile_Info/CharingRent.svg",
+    "23": "Tile_Info/WhiteRent.svg",
+    "24": "Tile_Info/HistoryRent.svg",
+    "25": "Tile_Info/QueensRent.svg",
+    "28": "Tile_Info/RoyalRent.svg"
 };
 
 /** Human-readable names for upgrade levels. */
