@@ -40,7 +40,7 @@ const Tile_Info = {
     "9": "Tile_Info/ScienceRent.svg",
     "10": "Tile_Info/FlemmingRent.svg",
     "11": "Tile_Info/BusinessRent.svg",
-    "13": "Tile_Info/AcexRent.svg",
+    "13": "Tile_Info/ACEXRent.svg",
     "14": "Tile_Info/DysonRent.svg",
     "16": "Tile_Info/SherfieldRent.svg",
     "18": "Tile_Info/AbdusRent.svg",
