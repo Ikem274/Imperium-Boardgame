@@ -1,6 +1,8 @@
------------- Imperium -------------------
-An interactive multiplayer Game Inspired by the Classic Property-trading format
-(Imperial College London Themed)
+# Imperium
+### An interactive multiplayer Game Inspired by the Classic Property-trading format
+### (Imperial College London Themed)
+
+<br>
 
 AI References:
 AI was used to:
@@ -11,6 +13,7 @@ AI was used to:
 - Create a script in package.json to run unit tests.
 - Debug issues with the JSON configuration so the project and tests would run correctly.
 
+<br>
 
 Other References:
 - Icons were added using the Windows emoji picker (Windows + .).
