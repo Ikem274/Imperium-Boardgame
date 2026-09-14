@@ -972,7 +972,7 @@ body {
     }
 
     60% {
-        transform: scale(1.05) translateY(-5px) rotate(1deg);
+        transform: scale(1) translateY(-5px) rotate(1deg);
         opacity: 1;
     }
 
