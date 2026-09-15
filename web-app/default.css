@@ -483,8 +483,8 @@ body {
 
 /* Tiles 16-21 (top-edge) */
 .top-edge .tile-upgrade-indicator {
-    bottom: 4px;
-    top: auto;
+    top: 4px;
+    bottom: auto;
     left: 50%;
     right: auto;
     transform: translateX(-50%)
@@ -1152,6 +1152,11 @@ body {
     justify-content: center;
     z-index: 4;
     box-shadow: 0 1px 4px rgba(0, 0, 0, 0.5);
+}
+
+.left-edge .tile-owner-icon {
+    left: 2px;
+    right: auto;
 }
 
 
